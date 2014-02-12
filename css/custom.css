@@ -1,0 +1,8 @@
+
+.reveal pre code {
+  padding:5px;
+  font-size: 20px;
+  margin-left:-10%;
+  width:120%;
+  box-shadow: 5px 5px 2px #222222;
+}
